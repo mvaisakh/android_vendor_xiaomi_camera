@@ -1,0 +1,5 @@
+# MIUI Camera and it's dependencies
+-priv-app/MiuiCamera/MiuiCamera.apk
+priv-app/MiuiCamera/lib/arm64/libcamera_algoup_jni.xiaomi.so:lib64/libcamera_algoup_jni.xiaomi.so
+priv-app/MiuiCamera/lib/arm64/libcamera_ispnode_jni.xiaomi.so:lib64/libcamera_ispnode_jni.xiaomi.so
+priv-app/MiuiCamera/lib/arm64/libcamera_mianode_jni.xiaomi.so:lib64/libcamera_mianode_jni.xiaomi.so
