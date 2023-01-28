@@ -3,3 +3,8 @@
 system/lib64/libcamera_algoup_jni.xiaomi.so
 system/lib64/libcamera_mianode_jni.xiaomi.so
 vendor/lib64/libmialgoengine.so
+vendor/lib64/libbeauty_face_interface.so
+vendor/lib64/libflaw.so
+vendor/lib64/librelight_only.so
+vendor/lib64/libsdk_sr.so
+vendor/lib64/lib_sr_models.so
